@@ -1,5 +1,6 @@
 set more off
 **VERSION HISTORY
+*081 surely I meant to add a comment to this file when I changed it!
 *080 a bunch of info on the inventors and assignees
 *079 drop self cites instead of preserving them.
 *078 adding dependent variables for academic non-self cites, corporate non-self cites. incorporate paper-level heterogeneity, which twin is first
